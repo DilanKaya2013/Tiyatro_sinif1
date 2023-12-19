@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\bin\Debug\Tİyatro_sinif.exe.config
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\bin\Debug\Tİyatro_sinif.exe
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\bin\Debug\Tİyatro_sinif.pdb
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.Form1.resources
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.Properties.Resources.resources
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.exe
+C:\Users\User\Desktop\Tiyatro_sinif1-main\Tİyatro_sinif\Tİyatro_sinif\obj\Debug\Tİyatro_sinif.pdb
